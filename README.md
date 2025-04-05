@@ -8,10 +8,7 @@ Here's how it works:
 For example:
 ```python
 %%writefile contacts.txt
-John Doe, johndoe@example.com
-Jane Doe, janedoe@example.com
+Alamgir Doe, Alamgir@example.com
+Khan Doe, Khandoe@example.com
 ```
 This will create a file named `contacts.txt` and store the contact details inside it.
-
-Would you like to learn more about file handling in Python?
-
